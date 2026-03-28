@@ -2,6 +2,8 @@
  
 A personal portfolio tracking dashboard built with Streamlit, yFinance, and Plotly. It fetches live market data, computes risk and return metrics, visualises concentration risk, and runs an AI strategy agent via Google Gemini. 
 
+<img width="3661" height="1611" alt="image" src="https://github.com/user-attachments/assets/8cf487fa-6fb4-4a6c-8e9f-9aeb8eee74b7" />
+
 ---
  
 ## Holdings Table
